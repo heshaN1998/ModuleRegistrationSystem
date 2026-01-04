@@ -1,0 +1,26 @@
+{
+  "name": "courseregpro_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heshaN1998/ModuleRegistrationSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/heshaN1998/ModuleRegistrationSystem/issues"
+  },
+  "homepage": "https://github.com/heshaN1998/ModuleRegistrationSystem#readme",
+  "dependencies": {
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
+    "express": "^5.2.1"
+  }
+}
