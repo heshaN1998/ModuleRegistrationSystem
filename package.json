@@ -22,6 +22,8 @@
     "ajv": "^6.12.6",
     "ajv-keywords": "^3.5.2",
     "express": "^5.2.1",
-    "mongoose": "^9.1.2"
+    "mongoose": "^9.1.2",
+    "multer": "^2.0.2",
+    "uuid": "^13.0.0"
   }
 }
